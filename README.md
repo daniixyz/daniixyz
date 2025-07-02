@@ -1,13 +1,13 @@
 # Hi there 👋
-Hello! I am a student of the Jovem Talento Tech program at Fundação Behring and I am very interested in the area of ​​programming and exact sciences!
+Hello! I am a student of the Jovem Talento Tech program at Fundação Behring and I am very interested in the area of ​​programming and exact sciences! 💗
 
 ## About me:
 
-- I am currently studying high school integrated with a technical computer course at CEFET-RJ, Maracanã campus.
-- I'm from Rio de Janeiro and a proudly Botafogo fan!
-- Beginner in programming, studying python, C++ and web development (HTML & CSS)
-- Gold medalist in OBMEP, bronze medalist in OBA, silver medalist in OBLI.
-- Focused on becoming a medalist in the OBI and OBM.
+- I am currently studying high school integrated with a technical computer course at CEFET-RJ, Maracanã campus. 🎒
+- I'm from Rio de Janeiro and a proudly Botafogo fan! 🏴🏳️
+- Beginner in programming, studying python, C++ and web development (HTML & CSS) 💻
+- Gold medalist in OBMEP, bronze medalist in OBA, silver medalist in OBLI. 🏅
+- Focused on becoming a medalist in the OBI and OBM. ➕
 
 ## Technologies:
 
